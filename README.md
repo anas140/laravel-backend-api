@@ -10,6 +10,7 @@ $ cd anas_test
 
 # install app's dependencies
 $ composer install
+```
 
 # Copy file ".env.example", and change its name to ".env".Then in file ".env" replace this database configuration:
 
@@ -35,13 +36,13 @@ $ php artisan migrate
 
 # run passport install to add passport 
 $ php artisan passport:install
-
+```
 ## Usage
 
 ``` bash
 # start local server
 $ php artisan serve
-
+```
 # Open Postman client app and test
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/db051bac438eb2fadddf)
 
