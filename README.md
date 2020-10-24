@@ -47,6 +47,6 @@ $ php artisan serve
 ### Open Postman client app and test
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/db051bac438eb2fadddf)
 
-### import the sample file products excel file in this directory
+### import the sample products excel file (producrs.xlsx) in this directory
 ### add athorization token in each requests except login and register 
 ### add request header `Accept: application/json` in each request
