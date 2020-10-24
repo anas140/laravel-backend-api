@@ -15,19 +15,20 @@ $ composer install
 ### Copy file ".env.example", and change its name to ".env".Then in file ".env" replace this database configuration:
 
 ### In your .env file change database credentials 
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=anas_database
-DB_USERNAME=root
-DB_PASSWORD=root
+* DB_CONNECTION=mysql
+* DB_HOST=127.0.0.1
+* DB_PORT=3306
+* DB_DATABASE=anas_database
+* DB_USERNAME=root
+* DB_PASSWORD=root
 
 ### Create database  named anas_database in mysql
 
 ### Next step
 
-``` bash
+
 # in your app directory
+``` bash
 # generate laravel APP_KEY
 $ php artisan key:generate
 
