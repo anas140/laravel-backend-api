@@ -49,3 +49,4 @@ $ php artisan serve
 
 ### import the sample file products excel file in this directory
 ### add athorization token in each requests except login and register 
+### add request header `Accept: application/json` in each request
