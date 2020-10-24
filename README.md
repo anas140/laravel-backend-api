@@ -42,7 +42,12 @@ $ php artisan passport:install
 # start local server
 $ php artisan serve
 
-# Open Postman client app and test  
+# Open Postman client app and test
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/db051bac438eb2fadddf)
+
+
+To use the latest published version, click the following button to import the SparkPost API as a collection:
+
+[![Run in Postman](https://s3.amazonaws.com/postman-static/run-button.png)](https://app.getpostman.com/run-collection/5d9ae743a661a15d64bb)
 
 # import the sample file products excel file in this directory
